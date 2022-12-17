@@ -1,2 +1,2 @@
-# yogi-test
-repository untuk yogi belajar
+# resolusi-yogi
+repository untuk resolusi yogi di tahun 2022-2023
